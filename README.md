@@ -1,4 +1,4 @@
-Geotab Intersection Congestion Prediction
+# Geotab Intersection Congestion Prediction
 
 Intersection Congestion provides information gathered from commercial vehicle telematics devices.It includes aggregate stopped vehicle information and intersection wait times. 
 Possible use cases include(Geotab website): 
