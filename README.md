@@ -20,4 +20,4 @@ From Dataset, Features are mostly categorical values and they are nominal data. 
 
 ## AWS Pipeline - Project Architecture & Data Flow
 
-![Data Flow](https://github.com/gayuc07/Cloud_Computing/master/Images/AWS_pipeline.jpg)
+![Data Flow](https://github.com/gayuc07/Cloud_Computing/tree/master/Images/AWS_pipeline.jpg)
