@@ -26,6 +26,7 @@ The cluster 3 & 4 had high congestion compared to the other cluster spot. The to
 ![EDA](https://github.com/gayuc07/Cloud_Computing/blob/master/Images/EDA-Clusters_direction.JPG)
 
 Higher rate of congestion happen at 8am in the morining and 4-5pm in the evening. Surprisingly, traffic congestion are more in the weekdays compared to the weekends.
+
 ![EDA](https://github.com/gayuc07/Cloud_Computing/blob/master/Images/EDA-total_time_stopped.JPG)
 
 
