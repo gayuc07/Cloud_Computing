@@ -1,5 +1,7 @@
 # Geotab Intersection Congestion Prediction
 
+![Intersection_intro](https://github.com/gayuc07/Cloud_Computing/blob/master/Images/intersec.JPG)
+
 Intersection Congestion provides information gathered from commercial vehicle telematics devices.It includes aggregate stopped vehicle information and intersection wait times. 
 Possible use cases include(Geotab website): 
 A city can use the data to analyze congestion and light timing issues at scale across the region, and evaluate for impact or potential impact of infrastructure changes. 
@@ -14,9 +16,13 @@ Dataset: https://www.kaggle.com/c/bigquery-geotab-intersection-congestion/data
 From Dataset, Features are mostly categorical values and they are nominal data. Inorder reduce the dimensionality of final dataset and preserve information present in each feature, we are clustering regions and forming new feature.
 
 ### Cluster Details
+![Clusters](https://github.com/gayuc07/Cloud_Computing/blob/master/Images/Clusters.JPG)
 
 
 ## Exploratory Data Analysis
+![EDA](https://github.com/gayuc07/Cloud_Computing/blob/master/Images/EDA-Clusters_direction.JPG)
+![EDA](https://github.com/gayuc07/Cloud_Computing/blob/master/Images/EDA-total_time_stopped.JPG)
+
 
 ## AWS Pipeline - Project Architecture & Data Flow
 
