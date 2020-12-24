@@ -20,6 +20,8 @@ From Dataset, Features are mostly categorical values and they are nominal data. 
 
 
 ## Exploratory Data Analysis
+
+The cluster 3 & 4 had high congestion compared to the other cluster spot. The total time stopped at clusters 3 & 4 are on average 
 ![EDA](https://github.com/gayuc07/Cloud_Computing/blob/master/Images/EDA-Clusters_direction.JPG)
 ![EDA](https://github.com/gayuc07/Cloud_Computing/blob/master/Images/EDA-total_time_stopped.JPG)
 
