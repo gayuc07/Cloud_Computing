@@ -9,3 +9,15 @@ Fleet managers can use the information on traffic congestion at intersections as
 In this project, we use intersection details of Philadelphia city. Aim of this project is to make use of the amazon sagemaker service to predict congesion by aggregate measure of stopping distance and waiting times. 
 
 Dataset: https://www.kaggle.com/c/bigquery-geotab-intersection-congestion/data
+
+## Data Preprocessing
+From Dataset, Features are mostly categorical values and they are nominal data. Inorder reduce the dimensionality of final dataset and preserve information present in each feature, we are clustering regions and forming new feature.
+
+### Cluster Details
+
+
+## Exploratory Data Analysis
+
+## AWS Pipeline - Project Architecture & Data Flow
+
+![Data Flow](https://github.com/gayuc07/Cloud_Computing/master/Images/AWS_pipeline.jpg)
